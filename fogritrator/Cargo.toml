@@ -1,0 +1,9 @@
+[workspace]
+members = [
+        "fogutil",
+        "prover",
+        "jit",
+]
+
+[profile.release]
+debug = true

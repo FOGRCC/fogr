@@ -1,0 +1,1 @@
+**Note**: Docs now live at https://github.com/FOGRCC/fogr-docs
